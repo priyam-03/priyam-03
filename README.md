@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **priyam.saha2003@gmail.com**
 ![Github stats](https://github-readme-stats-q6me.vercel.app/api?username=priyam-03&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&locale=en)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=priyam-03&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-03&layout=donut-vertical&bg_color=0D1117)](https://github.com/priyam-03)
 
 ### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
