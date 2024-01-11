@@ -7,9 +7,13 @@
 - 📫 How to reach me **priyam.saha2003@gmail.com**
 
 
+# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=priyam-03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-03&layout=donut-vertical&bg_color=0D1117)](https://github.com/priyam-03)
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyam-03&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
 
