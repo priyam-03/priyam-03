@@ -18,7 +18,10 @@
 </tr>
 </table>
 <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
+<br>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=priyam-03&theme=radical&no-frame=true&no-bg=false&margin-w=4)
