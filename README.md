@@ -3,15 +3,16 @@
 <!-- <img  width=100% height = 420px alt = "coding"src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam-03&label=Profile%20views&color=0e75b6&style=flat" alt="priyam-03" /> </p>
 - 🌱 I’m currently learning **Devops**
-
 - 📫 How to reach me **priyam.saha2003@gmail.com**
+
+
 ![Github stats](https://github-readme-stats-q6me.vercel.app/api?username=priyam-03&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&locale=en)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=priyam-03&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-03&layout=donut-vertical&bg_color=0D1117)](https://github.com/priyam-03)
 
 ### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
 
-![FullTechStack](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,git,github,html,java,js,linux,markdown,mongo,mysql,next,nodejs,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,flask,django,tensorflow,panda,numpy,matplotlib,pytorch,aws)
+![FullTechStack](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,git,github,html,java,js,linux,markdown,mongo,mysql,next,nodejs,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,flask,django,tensorflow,pytorch,aws)
 
 
 
@@ -24,8 +25,5 @@
 
 
 <h3 align="left">Hacktoberfest Badges:</h3>
-
 [![An image of @priyam-03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyam03)](https://holopin.io/@priyam03)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyam-03&show_icons=true&locale=en" alt="priyam-03" /></p>
