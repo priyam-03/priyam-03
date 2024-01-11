@@ -7,7 +7,7 @@
 - 📫 How to reach me **priyam.saha2003@gmail.com**
 
 
-![Github stats](https://github-readme-stats-q6me.vercel.app/api?username=priyam-03&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&locale=en)
+![](https://github-readme-stats.vercel.app/api?username=priyam-03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-03&layout=donut-vertical&bg_color=0D1117)](https://github.com/priyam-03)
 
