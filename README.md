@@ -8,8 +8,16 @@
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=priyam-03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&theme=nightowl&hide_border=false)<br/>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyam-03&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=priyam-03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+<br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-03&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
