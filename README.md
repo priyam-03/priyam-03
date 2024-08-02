@@ -23,14 +23,15 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 </p>
-<br> -->
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=priyam-03&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<br> -->
+
+
 
 ### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
 
-![FullTechStack](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,git,github,html,java,js,linux,markdown,mongo,mysql,next,nodejs,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,flask,django,tensorflow,pytorch,aws)
+![FullTechStack](https://skillicons.dev/icons?i=bash,c,cpp,css,docker,express,git,github,html,java,js,linux,markdown,mongo,mysql,next,nodejs,postgres,postman,powershell,python,qt,react,redis,regex,ruby,sqlite,spring,tailwind,typescript,vim,vscode,vite,flask,django,tensorflow,pytorch,aws,kuberneets)
 
 <h3 align="left">Hacktoberfest Badges:</h3>
 
