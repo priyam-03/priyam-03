@@ -13,7 +13,7 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyam-03&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 <td>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=priyam-03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=priyam-03&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyam-03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD"/>
 </td>
